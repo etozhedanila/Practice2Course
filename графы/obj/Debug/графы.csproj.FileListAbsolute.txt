@@ -1,0 +1,13 @@
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\bin\Debug\графы.exe.config
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\bin\Debug\графы.exe
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\bin\Debug\графы.pdb
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.csproj.GenerateResource.Cache
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.exe
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.pdb
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.Graph.resources
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.GraphBuild.resources
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.Task.resources
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Виталий\Desktop\Программирование\C#\графы\графы\obj\Debug\графы.csproj.ResolveComReference.cache
